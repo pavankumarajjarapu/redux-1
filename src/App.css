@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+button{
+ 
+  background-color: azure;
+  width: 180px;
+  height: 30px;
+  font-family: monospace;
+  font-size: 24px;
+  border-radius: 5px;
+  color: blueviolet;
+  margin: 20px;
+  
+}
+input{
+  height: 25px;
+  width: 180px;
+  border-radius: 5px;
+  justify-content: center;
+  margin: 20px;
+}
+.buttonContainer{
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+ border: 3px solid gray;
+  padding: 20px;
+display: inline-block;
+box-shadow: 2px 6px 9px black;
+}
+h1{
+  font-family: serif;
+  font-size: 3rem;
+  color: rgba(231, 9, 224, 0.589);
+}
+h2{
+  color: cadetblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+span{
+  color: rgba(209, 38, 8, 0.443);
+}
